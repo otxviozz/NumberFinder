@@ -1,0 +1,1 @@
+Este projeto tem como objetivo entender como funcionam lógicas de comparação dentro de Arrays.
